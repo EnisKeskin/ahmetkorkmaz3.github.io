@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+  background: #031424;
+  /*  18121E  
+      984B43
+      EAC67A
+      233237
+  */
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
+a {
+  text-decoration: none;
+}
+#info {
+  padding-top: 200px;
+}
+#content {
+  padding-top: 150px; 
+}
+#isim {
+  font-size: 40px;
+  color: #FFF;
+  letter-spacing: 0.5px;
+}
+#icerik {
+  color: #8EAEBD;
+  letter-spacing: 1px;
+}
+
+#image {
+  display: inline-block;
+  overflow: hidden;
+  border: 1px solid #031424;
+  border-radius: 5px; 
+}
+
+#social {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+}
