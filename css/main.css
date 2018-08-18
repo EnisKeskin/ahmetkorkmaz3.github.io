@@ -1,6 +1,7 @@
 body {
   font-family: 'monospace';
   background-color: #2A3140;
+  line-height: normal;
 }
 
 h1 {
@@ -19,6 +20,11 @@ i {
 li {
   float: left;
   margin: 8px;
+}
+
+a {
+  text-decoration: none;
+  color: #D93240;
 }
 
 .clear {
@@ -71,4 +77,10 @@ li {
 .title {
   text-align: center;
   color: #D93240;
+}
+
+.img {
+  width: 100%;
+  height: auto;
+  margin: 15px 5px;
 }
