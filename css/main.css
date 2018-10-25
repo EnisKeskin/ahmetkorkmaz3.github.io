@@ -62,8 +62,8 @@ a {
 
 .choice {
   color: #6B7363;
-  text-align: right;
   float: right;
+  text-align: right;
   margin-top: 20px;
   font-size: 25px;
 }
