@@ -105,3 +105,14 @@ a {
   height: auto;
   margin: 15px 5px;
 }
+
+/* Responsive */
+
+@@media screen and (max-width:480px) {
+  .content-right {
+    display: block;
+  }
+  .content-left {
+    display: block;
+  }
+}
